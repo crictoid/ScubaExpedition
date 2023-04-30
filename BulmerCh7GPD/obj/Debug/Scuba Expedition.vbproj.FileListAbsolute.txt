@@ -1,0 +1,13 @@
+C:\Users\mdbul\source\repos\BulmerCh7GPD\bin\Debug\Scuba Expedition.exe.config
+C:\Users\mdbul\source\repos\BulmerCh7GPD\bin\Debug\Scuba Expedition.exe
+C:\Users\mdbul\source\repos\BulmerCh7GPD\bin\Debug\Scuba Expedition.pdb
+C:\Users\mdbul\source\repos\BulmerCh7GPD\bin\Debug\Scuba Expedition.xml
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\BulmerCh7GPD.frmScuba.resources
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\BulmerCh7GPD.Resources.resources
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\BulmerCh7GPD.SplashScreen1.resources
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\Scuba Expedition.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\Scuba Expedition.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\Scuba Expedition.exe
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\Scuba Expedition.xml
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\Scuba Expedition.pdb
+C:\Users\mdbul\source\repos\BulmerCh7GPD\obj\Debug\Scuba Expedition.vbproj.AssemblyReference.cache
